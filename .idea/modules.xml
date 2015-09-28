@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EjercicioConstructores/EjercicioConstructores.iml" filepath="$PROJECT_DIR$/EjercicioConstructores/EjercicioConstructores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioInterfaces/EjercicioInterfaces.iml" filepath="$PROJECT_DIR$/EjercicioInterfaces/EjercicioInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejerciciointerfaces/Ejerciciointerfaces.iml" filepath="$PROJECT_DIR$/Ejerciciointerfaces/Ejerciciointerfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaExercises.iml" filepath="$PROJECT_DIR$/JavaExercises.iml" />
+    </modules>
+  </component>
+</project>
