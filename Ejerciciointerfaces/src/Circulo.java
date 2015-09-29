@@ -6,6 +6,7 @@ public class Circulo extends Tipo {
     public Circulo(double radio){
 
         super("Circulo");
+        this.radio = radio;
     }
 
 
