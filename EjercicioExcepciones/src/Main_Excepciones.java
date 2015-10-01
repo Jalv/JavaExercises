@@ -1,7 +1,7 @@
 /**
  * Created by juan on 29/09/15.
  */
-public class Main {
+public class Main_Excepciones {
 
     public static void main(String[] args) {
         if (args.length != 1) {
@@ -10,7 +10,7 @@ public class Main {
         }
 
         try {
-            double average = CalculaMedia.media(args[0]);
+            double average = AverageFileCalculator.average(args[0]);
             System.out.println("Average = " + average);
         } catch (FileParsingException e) {
             e.printStackTrace();

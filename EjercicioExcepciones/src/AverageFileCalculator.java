@@ -7,10 +7,8 @@ import java.io.IOException;
  * Created by juan on 29/09/15.
  */
 
-
-public class CalculaMedia {
-
-    public final static double media(String file) throws FileParsingException, BigNumberException {
+public class AverageFileCalculator {
+    public final static double average(String file) throws FileParsingException, BigNumberException {
         double counter = 0d;
         double sum = 0d;
         BufferedReader reader = null;
@@ -41,5 +39,7 @@ public class CalculaMedia {
 
         return sum / counter;
     }
-
 }
+
+
+
